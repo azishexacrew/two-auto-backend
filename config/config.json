@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "2Auto!!!",
+    "database": "two_auto_service_prod",
+    "host": "10.130.119.172",
+    "dialect": "mysql"
+  }
+}
